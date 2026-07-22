@@ -1,0 +1,3 @@
+# Treat GLB and PNG files as binary to prevent CRLF line ending conversion
+*.glb binary
+*.png binary

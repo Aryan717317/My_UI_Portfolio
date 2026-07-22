@@ -1,0 +1,10 @@
+.text-block {
+  max-width: 800px;
+  color: inherit;
+}
+
+.char {
+  will-change: transform, content;
+  display: inline-block;
+  transition: color 0.1s ease;
+}
